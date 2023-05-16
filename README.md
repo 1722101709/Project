@@ -14,8 +14,8 @@ offensiveness. The accuracy for BERT model is 82.7% whereas for KL-NF model is 8
 
 ## KL-NF Technique 
 
-### Loss Curve for BERT model
-![Loss Curve for BERT model](Results/KL-NF/LossCurve.png)
+### Loss Curve
+![Loss Curve](Results/KL-NF/LossCurve.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](Results/KL-NF/ConfusionMatrix.png)
@@ -31,5 +31,26 @@ offensiveness. The accuracy for BERT model is 82.7% whereas for KL-NF model is 8
 
 ### TP, TN, FP, FN for each label
 ![TP, TN, FP, FN for each label](Results/KL-NF/TP-TN-FP-FN-For-Each-Label.png)
+
+
+
+## BERT
+
+### Loss Curve for BERT model
+![Loss Curve for BERT model](Results/BERT/LossCurve.png)
+
+### Confusion Matrix
+![Confusion Matrix](Results/BERT/ConfusionMatrix.png)
+
+### Model Performance
+
+![Model Performance](Results/BERT/ModelPerformance.png)
+
+
+### ROC Curve
+![ROC-Curve](Results/BERT/ROC-Curve.png)
+
+### TP, TN, FP, FN for each label
+![TP, TN, FP, FN for each label](Results/BERT/TP-TN-FP-FN-For-Each-Label.png)
 
 
