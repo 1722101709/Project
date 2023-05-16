@@ -12,9 +12,9 @@ offensiveness. The accuracy for BERT model is 82.7% whereas for KL-NF model is 8
 
 
 # DATASETS
-- [x] Tamil(https://github.com/1722101709/Project/tree/bf744a7af1f32400971d9063c8ff32a063766708/Datasets/Tamil%2C%20Mal%2C%20Kannada)
-- [x]   Malayalam(https://github.com/1722101709/Project/tree/bf744a7af1f32400971d9063c8ff32a063766708/Datasets/Tamil%2C%20Mal%2C%20Kannada)
-- [x] Kannada(https://github.com/1722101709/Project/tree/bf744a7af1f32400971d9063c8ff32a063766708/Datasets/Tamil%2C%20Mal%2C%20Kannada)
+- [x] [Tamil](https://github.com/1722101709/Project/tree/bf744a7af1f32400971d9063c8ff32a063766708/Datasets/Tamil%2C%20Mal%2C%20Kannada)
+- [x] [Malayalam](https://github.com/1722101709/Project/tree/bf744a7af1f32400971d9063c8ff32a063766708/Datasets/Tamil%2C%20Mal%2C%20Kannada)
+- [x] [Kannada](https://github.com/1722101709/Project/tree/bf744a7af1f32400971d9063c8ff32a063766708/Datasets/Tamil%2C%20Mal%2C%20Kannada)
 
 # RESULTS
 
