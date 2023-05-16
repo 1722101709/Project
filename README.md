@@ -20,6 +20,9 @@ offensiveness. The accuracy for BERT model is 82.7% whereas for KL-NF model is 8
 ### Confusion Matrix
 ![Confusion Matrix](Results/KL-NF/ConfusionMatrix.png)
 
+### Model Accuracy Curve
+![Model Accuracy Curve](Results/KL-NF/Model%20Accuracy%20Curve.png)
+
 ### Model Performance
 
 ![Model Performance](Results/KL-NF/ModelPerformance.png)
