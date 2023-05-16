@@ -21,7 +21,7 @@ Loss Curve for BERT model
 
 Confusion Matrix
 
-![Model Accuracy Curve](Results/KL-NF/Model Accuracy Curve.png)
+![Confusion Matrix](Results/KL-NF/Model Accuracy Curve.png)
 
 Model Accuracy Curve
 
